@@ -1,7 +1,20 @@
 {
-    "_note": "license list. SHA256(key) -> status(active/revoked) + expires. keys live only in each client config; labels are opaque ids.",
-    "licenses": {
-        "c2679fdaf5d3e6229c31bdaa5526567ef0ee0baba341805d8d988dd397ee0b1a": { "status": "active", "expires": "2099-12-31", "label": "lic-000" },
-        "3c3e26f9e5b949c4234a9dc249bad2e6892dcdb8376ffd88ca77c8d2cb596145": { "status": "active", "expires": "2099-12-31", "label": "lic-001" }
-    }
+    "_note":  "license list. SHA256(key) -\u003e status(active/revoked) + expires. keys live only in each client config; labels are opaque ids.",
+    "licenses":  {
+                     "c2679fdaf5d3e6229c31bdaa5526567ef0ee0baba341805d8d988dd397ee0b1a":  {
+                                                                                              "status":  "active",
+                                                                                              "expires":  "2099-12-31",
+                                                                                              "label":  "lic-000"
+                                                                                          },
+                     "3c3e26f9e5b949c4234a9dc249bad2e6892dcdb8376ffd88ca77c8d2cb596145":  {
+                                                                                              "status":  "active",
+                                                                                              "expires":  "2099-12-31",
+                                                                                              "label":  "lic-001"
+                                                                                          },
+                     "51990d41d839116474f2526bc33cd66d38e0072b0e572488cf428ea4cb0b4cbe":  {
+                                                                                              "status":  "active",
+                                                                                              "expires":  "2099-12-31",
+                                                                                              "label":  "lic-002"
+                                                                                          }
+                 }
 }

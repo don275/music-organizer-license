@@ -2,7 +2,7 @@
     "telemetryUrl": "https://script.google.com/macros/s/AKfycbx1lsdk1XF_TL0J-hRx4CATBoTdoA8_iQnd8QTg9sJDnMrxE-isulkzSwJhE_90nmk/exec",
     "_note":  "license list. SHA256(key) -\u003e status(active/revoked) + expires. keys live only in each client config; labels are opaque ids.",
     "licenses":  {
-                     "4e08984da19ffcef4eca033a1c33150bae388be6aeb95d516c6a50b40b9b9eda":  { "status": "active", "label": "lic-test" },
+                     "4e08984da19ffcef4eca033a1c33150bae388be6aeb95d516c6a50b40b9b9eda":  { "status": "revoked", "label": "lic-test" },
                      "c2679fdaf5d3e6229c31bdaa5526567ef0ee0baba341805d8d988dd397ee0b1a":  {
                                                                                               "status":  "active",
                                                                                               "expires":  "2099-12-31",

@@ -21,6 +21,11 @@
                                                                                               "status":  "active",
                                                                                               "expires":  "2099-12-31",
                                                                                               "label":  "lic-003"
+                                                                                          },
+                     "8c4bab9a52fdf391e93bb75ab968d91ec7be6fbfd59a717558db40d65754422f":  {
+                                                                                              "status":  "active",
+                                                                                              "expires":  "2099-12-31",
+                                                                                              "label":  "lic-004"
                                                                                           }
                  }
 }

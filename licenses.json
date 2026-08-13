@@ -5,7 +5,10 @@
                      "c2679fdaf5d3e6229c31bdaa5526567ef0ee0baba341805d8d988dd397ee0b1a":  {
                                                                                               "status":  "active",
                                                                                               "expires":  "2099-12-31",
-                                                                                              "label":  "lic-000"
+                                                                                              "label":  "lic-000",
+                                                                                              "machines":  [
+                                                                                                               "fda562c5ba35a3bc"
+                                                                                                           ]
                                                                                           },
                      "3c3e26f9e5b949c4234a9dc249bad2e6892dcdb8376ffd88ca77c8d2cb596145":  {
                                                                                               "status":  "active",
